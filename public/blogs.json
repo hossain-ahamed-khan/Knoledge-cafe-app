@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring the Universe: A Beginner's Guide",
+        "cover_img": "https://i.ibb.co/kGz5XSd/portrait-woman-customer-service-worker.jpg",
+        "author_name": "Astrid Johnson",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-14",
+        "reading_time": 30,
+        "hashtags": [
+            "universe",
+            "space",
+            "exploration"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Art of Cooking: Mastering Culinary Techniques",
+        "cover_img": "https://i.ibb.co/8skVHQn/top-view-desk-with-copy-space-tags.jpg",
+        "author_name": "Chef Michael",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-12",
+        "reading_time": 45,
+        "hashtags": [
+            "cooking",
+            "food",
+            "recipes"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Innovation in Technology: Shaping Our Future",
+        "cover_img": "https://i.ibb.co/G5z2XRv/top-view-office-desk-with-copy-space.jpg",
+        "author_name": "Emily Chang",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-10",
+        "reading_time": 25,
+        "hashtags": [
+            "technology",
+            "innovation",
+            "future"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Mindfulness Meditation: Finding Inner Peace",
+        "cover_img": "https://i.ibb.co/kxHgkKM/top-view-office-desk-with-tablet-mockup.jpg",
+        "author_name": "David Smith",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-09",
+        "reading_time": 20,
+        "hashtags": [
+            "mindfulness",
+            "meditation",
+            "wellness"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Traveling on a Budget: Tips and Tricks",
+        "cover_img": "https://i.ibb.co/CJ9p1hq/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "author_name": "Sophie Brown",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-07",
+        "reading_time": 35,
+        "hashtags": [
+            "travel",
+            "budget",
+            "tips"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Climate Change: Understanding the Crisis",
+        "cover_img": "https://i.ibb.co/10DvJBB/notepad-pen-paper-clipboard-with-paperclips-laptop-green-background.jpg",
+        "author_name": "James Wilson",
+        "author_img": "https://i.ibb.co/0VST87t/Ellipse-1.png",
+        "post_date": "2024-03-05",
+        "reading_time": 40,
+        "hashtags": [
+            "climatechange",
+            "environment",
+            "crisis"
+        ]
+    }
+]
